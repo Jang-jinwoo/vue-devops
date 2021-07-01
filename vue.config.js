@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: "/vue-devops",
+  publicPath: "/vue-devops/",
   outputDir: "dist"
-}
+};
